@@ -93,7 +93,7 @@ const LoginModal = () => {
     </div>
   )
 
-//here removing github auth for some small issues.
+//here removing github auth for some small issues in the github authentication.
 
   const footerContent = (
     <div className="flex flex-col gap-4 mt-3">
